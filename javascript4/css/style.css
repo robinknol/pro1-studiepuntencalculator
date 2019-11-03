@@ -1,0 +1,35 @@
+body {
+  background-image: url(https://images5.alphacoders.com/101/thumb-1920-1014466.jpg);
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: black;
+}
+
+table {
+  width: 80%;
+  margin: auto;
+}
+table, th, td {
+  border: 3px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: center;
+}
+
+th {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 1.875em;
+  font-style: italic;
+  background-color: silver;
+}
+td {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 1em;
+  background-color: rgb(255,255,255,0.5)
+}
+
+.ClusterRow {
+  padding: 5px 9px 5px 9px;
+}
